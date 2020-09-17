@@ -1,2 +1,2 @@
-# machine-learning-gearbots-jer
+# machine-learning-gearbots-eth
 gearbots class 
